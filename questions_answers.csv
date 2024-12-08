@@ -1,0 +1,11 @@
+questions,answers,,,,
+What is a variable?,A variable is a container for storing data values in a program.,,,,
+What is a function in programming?,A function is a block of reusable code that performs a specific task.,,,,
+What is Python?,Python is a popular, high-level, interpreted programming language known for its simplicity.,,
+What is a loop in programming?,A loop is used to repeat a block of code until a certain condition is met.,,,,
+What is an if-else statement?,A loop is used to repeat a block of code until a certain condition is met.,,,,
+What are data types in programming?,Data types classify the type of data a variable holds, such as int, float, string, etc.
+What is an array?,An array is a data structure that stores a collection of items at contiguous memory locations.,,,,
+What is debugging?,Debugging is the process of finding and fixing errors in a program.,,,,
+What is the difference between Python 2 and 3?,Python 3 introduced major improvements over Python 2, such as better Unicode handling.,,,
+What is indentation in Python?,Indentation is used to define blocks of code in Python instead of curly braces.,,,,
